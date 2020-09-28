@@ -1,2 +1,2 @@
 # MetaCloud for Resource Provisioning
-Multi-Objective Optimization for Dynamin a Multi-Cloud Environment using Lion Optimization Algorithm
+Multi-Objective Optimization for Dynamic Resource Provisioning in a Multi-Cloud Environment using Lion Optimization Algorithm
